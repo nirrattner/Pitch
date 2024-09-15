@@ -1,9 +1,0 @@
-com/nirrattner/pitch/console/ConsoleModule.class
-com/nirrattner/pitch/console/inputs/ConsoleInputSource.class
-com/nirrattner/pitch/console/ConsolePitch.class
-com/nirrattner/pitch/console/inputs/InputDisplayer$1.class
-com/nirrattner/pitch/console/loggers/ConsoleEventLogger.class
-com/nirrattner/pitch/console/inputs/ConsoleInputParser.class
-com/nirrattner/pitch/console/inputs/InputDisplayer.class
-com/nirrattner/pitch/console/ConsolePitchMain.class
-com/nirrattner/pitch/console/loggers/ConsoleStepLogger.class
